@@ -1,0 +1,21 @@
+{
+  "hesap": "gdmedya",
+  "openai_model": "gpt-4.1-mini",
+  "gmail_sorgu": "is:unread in:inbox -from:me",
+  "maksimum_mail_sayisi": 30,
+
+  "gereksizleri_okundu_yap": true,
+  "okundu_guven_esigi": 0.75,
+  "gmail_taslak_olustur": true,
+  "lokal_taslak_kaydet": true,
+  "telegram_bildirim": true,
+
+  "on_eleme_gmail_kategorileri": ["CATEGORY_PROMOTIONS", "CATEGORY_SOCIAL"],
+  "kara_liste_gonderenler": ["newsletter@", "bulten@", "marketing@", "kampanya@"],
+  "beyaz_liste_gonderenler": [],
+
+  "kurum_profili": "GD Medya; oteller, sanat galerileri, berberler/kuaförler ve yerel/kurumsal işletmeler için özel web sitesi mimarileri, yapay zeka tabanlı 'robot asistan' sistemleri, akıllı web otomasyonları ve dijital dönüşüm çözümleri sunar. Berber ve kuaförler için otomatik randevu oluşturma, hatırlatma mesajları ve müşteri takibi; oteller ve galeriler için 7/24 müşteri bilgilendirme, rezervasyon taleplerini yanıtlama ve hizmet tanıtımı yapan yapay zeka asistanları kurar. Amacı işletmelerin manuel iş yükünü azaltmak ve dijital varlıklarını en yüksek verimle çalıştırmaktır. Web: www.gdmedya.com.tr — Instagram/LinkedIn/TikTok: @gdmedya",
+
+  "imza": "İyi çalışmalar dileriz,\n\nGD Medya Ekibi\nDijital Dönüşüm & Yapay Zeka Otomasyon Çözümleri\nwww.gdmedya.com.tr | Instagram: @gdmedya"
+}
+
