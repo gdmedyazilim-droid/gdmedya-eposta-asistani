@@ -1,0 +1,5 @@
+# Koşu çıktıları: taslaklar, defter ve günlük müşteri maillerini içerir
+durum/
+__pycache__/
+*.pyc
+
