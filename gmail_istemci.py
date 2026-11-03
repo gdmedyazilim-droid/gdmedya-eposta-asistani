@@ -6,6 +6,7 @@ Yalnızca `drafts().create` kullanılır; `messages().send` veya `drafts().send`
 """
 import base64
 import html
+import os
 import re
 import sys
 from dataclasses import dataclass, field
